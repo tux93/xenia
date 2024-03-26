@@ -626,6 +626,12 @@ source: @a[href: "https://vt.social/@ExpiredPopsicle/110535376184347488"]{vt.soc
 --
 img: kiri1.png
 --
+time: 2023-06-20
+aref: tacophox
+source: @a[href: "https://meow.social/@tacophox/110577808377295833"]{meow.social}
+--
+img: tacophox3.png
+--
 time: 2023-06-23
 aref: freja
 source: @a[href: "https://freja.zone/@freja/110591051082235494"]{freja.zone}
@@ -924,3 +930,83 @@ source: @a[href: "https://md.ilyamikcoder.com/@de_lysander/111986685334869179"]{
 --
 img: vectorassembly1.png
 img: vectorassembly2.png
+--
+time: 2024-03-25
+aref: Anna
+source: @a[href: "https://mastodon.art/@Anna/112158537770353454"]{mastodon.art}
+--
+@video[src: "https://efimero.github.io/xenia-images/anna_roulette.mp4" autoplay: #t loop: #t]
+--
+time: 2024-03-27
+aref: helixnebula
+source: @a[href: "https://furries.club/@helixnebulaart/112168668810691123"]{furries.club}
+--
+img: HelixNebula1.png
+--
+time: 2024-04-17
+aref: dancrescent
+source: @a[href: "https://pounced-on.me/@dancrescentwolf/112288173920746670"]{pounced-on.me}
+source: @a[href: "https://www.furaffinity.net/view/56318541/"]{Fur Affinity}
+--
+img: DanCrescentWolf1.png
+--
+time: 2024-04-29
+aref: magpi
+source: @a[href: "https://meow.social/@magpi/112352753111576631"]{meow.social}
+source: @a[href: "https://www.furaffinity.net/view/56449639/"]{Fur Affinity}
+--
+img: magpi1.png
+--
+time: 2024-06-11
+aref: neotheta
+source: @a[href: "https://toot.finfur.net/@Neotheta/112597597013093575"]{finfur.net}
+source: @a[href: "https://www.furaffinity.net/view/56970889/"]{Fur Affinity}
+--
+img: neotheta3.png
+--
+time: 2024-06-15
+aref: dreamykeaver
+source: @a[href: "https://chitter.xyz/@dreamykeaver/112619186002248114"]{chitter.xyz}
+--
+img: dreamykeaver.png
+--
+time: 2024-06-20
+aref: chromacat248
+source: @a[href: "https://meow.social/@chromacat248/112647404386786716"]{meow.social}
+--
+img: chromacat248.png
+img: chromacat248_bluescreen.png
+--
+time: 2024-06-23
+aref: meatsmall
+source: @a[href: "https://oomfie.city/@meatsmall/112663801983680177"]{oomfie.city}
+--
+img: meatsmall.jpeg
+--
+time: 2024-07-02
+aref: neotheta
+source: @a[href: "https://neotheta.fi/xenia/"]{neotheta.fi}
+--
+img: neotheta_xeniastickers.jpg
+--
+time: 2024-07-24
+aref: chimmie
+source: @a[href: "https://mrrp.chimmie.k.vu/notes/9w3oqr159asa009r"]{mrrp.chimmie.k.vu}
+source: @a[href: "https://xenia.chimmie.k.vu/#xenia-waterflame"]{xenia.chimmie.k.vu (SVG)}
+--
+img: chimmie_xenia_linux_genshin.webp
+--
+time: 2024-07-27
+aref: yellowdog
+source: @a[href: "https://meow.social/@yellowdog/112857364201388428"]{meow.social}
+source: @a[href: "https://www.furaffinity.net/view/57523774/"]{Fur Affinity}
+--
+img: yellowdog_xenia-online.png
+--
+time: 2023-10-24
+aref: thegreenherring
+source: @a[href: "https://chitter.xyz/@TheGreenHerring/111296683620682759"]{chitter.xyz}
+source: @a[href: "https://thegreenherring.neocities.org/art/2023/XENIA"]{thegreenherring.neocities.org}
+--
+img: thegreenherring.png
+

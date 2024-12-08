@@ -1088,4 +1088,16 @@ aref: tacophox
 source: @a[href: "https://meow.social/@tacophox/113477409986686223"]{meow.social}
 --
 img: tacophox3.jpeg
+--
+time: 2023-03-14
+aref: poppy
+source: @a[href: "https://www.furaffinity.net/view/51365294/"]{Fur Affinity}
+--
+img: poppy_thinkpad.png
+--
+time: 2024-01-10
+aref: poppy
+source: @a[href: "https://wetdry.world/@poppyartist/111729494754779274"]{wetdry.world}
+--
+img: poppy_dc.png
 
